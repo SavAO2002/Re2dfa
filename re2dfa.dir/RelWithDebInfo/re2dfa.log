@@ -1,0 +1,6 @@
+﻿  task.cpp
+C:\Users\79851\Desktop\re2dfa\task.cpp(80,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79851\Desktop\re2dfa\task.cpp(135,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79851\Desktop\re2dfa\task.cpp(145,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79851\Desktop\re2dfa\task.cpp(192,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  re2dfa.vcxproj -> C:\Users\79851\Desktop\re2dfa\RelWithDebInfo\re2dfa.exe
